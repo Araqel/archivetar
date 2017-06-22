@@ -1,0 +1,12 @@
+{
+    "name": "araqel/archivetar",
+    "description": "Class for creation of .tar.zip Archives",
+    "keywords" : ["dropbox", "sdk", "api", "client", "php", "unofficial"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Araqel Araqelyan",
+            "email": "AraqelAraqelyan@gmail.com"
+        }
+    ]
+}
