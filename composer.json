@@ -1,7 +1,7 @@
 {
     "name": "araqel/archivetar",
     "description": "Class for creation of .tar.zip Archives",
-    "keywords" : ["dropbox", "sdk", "api", "client", "php", "unofficial"],
+    "keywords" : ["archive", "class", "api", "tar", "php", ".tar.zip"],
     "license": "MIT",
     "authors": [
         {
