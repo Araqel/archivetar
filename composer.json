@@ -8,5 +8,10 @@
             "name": "Araqel Araqelyan",
             "email": "AraqelAraqelyan@gmail.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "ArchiveTar\\":"src/"
+        }
+    }
 }
